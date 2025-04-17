@@ -1,0 +1,74 @@
+{
+  "name": "lumina-ai-assistant-frontend",
+  "version": "1.0.0",
+  "private": false,
+  "author": "Son Nguyen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoangsonww/AI-Assistant-Chatbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "ai",
+    "assistant",
+    "personal",
+    "openai",
+    "lumina",
+    "knowledge",
+    "rag",
+    "retrieval",
+    "augmented",
+    "generation",
+    "pinecone",
+    "langchain",
+    "typescript",
+    "nodejs",
+    "express",
+    "mongodb",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/hoangsonww/AI-Assistant-Chatbot/issues"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^5.16.14",
+    "@mui/material": "^5.16.14",
+    "@react-buddy/ide-toolbox": "^2.4.0",
+    "@react-buddy/palette-mui": "^5.0.1",
+    "axios": "^1.7.9",
+    "framer-motion": "^12.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^9.0.1",
+    "react-router-dom": "^6.29.0",
+    "react-scripts": "^5.0.1",
+    "remark-gfm": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@types/react-router-dom": "^5.3.3",
+    "typescript": "^4.9.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

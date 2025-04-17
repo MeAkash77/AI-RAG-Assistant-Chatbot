@@ -1,0 +1,52 @@
+{
+  "name": "lumina-ai-assistant-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot for David Nguyen's personal AI assistant.",
+  "main": "dist/index.js",
+  "author": "Son Nguyen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoangsonww/AI-Assistant-Chatbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "ai",
+    "assistant",
+    "personal",
+    "openai",
+    "lumina",
+    "knowledge",
+    "rag",
+    "retrieval",
+    "augmented",
+    "generation",
+    "pinecone",
+    "langchain",
+    "typescript",
+    "nodejs",
+    "express",
+    "mongodb",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/hoangsonww/AI-Assistant-Chatbot/issues"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "cd client && npm start",
+    "dev": "cd server && npm run dev",
+    "frontend": "cd client && npm start",
+    "backend": "cd server && npm run dev",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,css,scss,md,html}\"",
+    "store": "cd server && ts-node src/scripts/storeKnowledge.ts"
+  },
+  "dependencies": {
+    "prettier": "^3.4.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "private": false
+}
