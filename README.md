@@ -262,9 +262,7 @@ The project is divided into two main parts:
 
 #### Landing Page - Dark Mode
 
-<p align="center">
-  <img src="img/landing-dark.png" alt="Landing Page - Dark Mode" width="100%">
-</p>
+<img width="954" alt="Image" src="https://github.com/user-attachments/assets/3587e8d5-c567-4897-bdc2-c38ae85e75f2" />
 
 ### Homepage
 
