@@ -314,23 +314,11 @@ The project is divided into two main parts:
 
 ### Homepage - Unauthenticated User
 
-<p align="center">
-  <img src="img/unauthed-home.png" alt="Homepage - Unauthenticated User" width="100%">
-</p>
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/8da2a625-af11-4e74-a262-01eacd258af3" />
 
 #### Homepage - Unauthenticated User - Dark Mode
 
-<p align="center">
-  <img src="img/unauthed-home-dark.png" alt="Homepage - Unauthenticated User - Dark Mode" width="100%">
-</p>
-
-### 404 Page
-
-<p align="center">
-  <img src="img/404.png" alt="404 Page" width="100%">
-</p>
-
-## API Endpoints
+<img width="953" alt="Image" src="https://github.com/user-attachments/assets/4e61e6f4-19e4-4444-8e20-5c9956fb4b78" />
 
 ### Authentication
 
