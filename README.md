@@ -6,37 +6,9 @@
   <img src="img/lumina.png" alt="Lumina Logo" width="30%" style="border-radius: 10px">
 </p>
 
-## Table of Contents
-
-- [Live App](#live-app)
-  - [Key Technologies](#key-technologies)
-- [Features](#features)
-- [Architecture](#architecture)
-  - [High-Level Architecture Flow Diagram](#high-level-architecture-flow-diagram)
-- [Setup & Installation](#setup--installation)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [User Interface](#user-interface)
-- [API Endpoints](#api-endpoints)
-  - [Authentication](#authentication)
-  - [Conversations](#conversations)
-  - [Chat](#chat)
-  - [Swagger API Documentation](#swagger-api-documentation)
-- [Project Structure](#project-structure)
-- [Dockerization](#dockerization)
-- [OpenAPI Specification](#openapi-specification)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Live App
 
-Currently, the app is deployed live on Vercel at: [https://lumina-david.vercel.app/](https://lumina-david.vercel.app). Feel free to check it out!
-
-For the backend (with Swagger docs), it is deployed live also on Vercel at: [https://ai-assistant-chatbot-server.vercel.app/](https://ai-assistant-chatbot-server.vercel.app/).
-
-Alternatively, the backup app is deployed live on Netlify at: [https://lumina-ai-chatbot.netlify.app/](https://lumina-ai-chatbot.netlify.app/).
+Currently, the app is deployed live on Vercel at: [https://akash77-ai-rag-assistant-chatbot.vercel.app/](https://akash77-ai-rag-assistant-chatbot.vercel.app/). Feel free to check it out!
 
 ### Key Technologies
 
@@ -62,7 +34,7 @@ Alternatively, the backup app is deployed live on Netlify at: [https://lumina-ai
 
 ## Features
 
-- **AI Chatbot:** Ask questions about David Nguyen and general topics; receive responses from an AI.
+- **AI Chatbot:** Ask questions about Akash and general topics; receive responses from an AI.
 - **User Authentication:** Sign up, log in, and log out using JWT authentication.
 - **Conversation History:** Save, retrieve, rename, and search past conversations (only for authenticated users).
 - **Updated & Vast Knowledge Base:** Use RAG (Retrieval-Augmented Generation) & LangChain to enhance AI responses.
@@ -484,18 +456,3 @@ To view the API documentation, you can use tools like Swagger UI or Postman to i
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to me:
-
-- **David Nguyen**
-  - [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
-  - [GitHub](https://github.com/hoangsonww)
-  - [Email](mailto:hoangson091104@gmail.com)
-
----
-
-Thank you for checking out the AI Assistant Project! If you have any questions or feedback, feel free to reach out. Happy coding! 🚗
-
-[⬆️ Back to Top](#table-of-contents)
